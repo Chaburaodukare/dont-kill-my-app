@@ -3,7 +3,8 @@ manufacturer:
     - general
 ---
 
-### Android 6+
+### Andro
+id 6+
 
 Always check the following setting:
 
